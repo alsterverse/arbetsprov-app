@@ -12,7 +12,7 @@ Resultaten av sökningarna ska visas och man ska även kunna ta bort dom.
 * Om staden du söker på inte ger något svar från API:et ska meddelandet "Det finns ingen stad som matchar din sökning" visas under input-fältet
 * Hitta en ikon i Figma-dokumentet som matchar resultatet av sökningen. Använd ×-ikonen som fallback.
 
-## Extrabeställning (om det blir tid över)
+### Extrabeställning (om det blir tid över)
 * Trevliga animationer
 * Resultaten ska sorteras efter hur nära användern är platsen (mha GPS)
 * Resultaten ska sparas på mobilen, så att när appen öppnas visas tidigare sökningar
